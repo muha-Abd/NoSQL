@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6ab37ad6e2d6e39a4ea20342"
+  },
+  "customerId": 501,
+  "name": "Aidar"
+},
+{
+  "_id": {
+    "$oid": "6ab37ad6e2d6e39a4ea20343"
+  },
+  "customerId": 502,
+  "name": "Dana"
+}]

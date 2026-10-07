@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6a97c0463828e3782010623e"
+  },
+  "studentId": 1,
+  "name": "nikita",
+  "surname": "nikitov",
+  "age": 18,
+  "group": "IS-24-21",
+  "gpa": 3.45,
+  "skills": [
+    "Java",
+    "Python",
+    "MongoDB"
+  ],
+  "address": {
+    "city": "Almaty",
+    "street": "rickulov"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cbf23828e37820106242"
+  },
+  "studentId": 2,
+  "name": "tikol",
+  "surname": "werya",
+  "age": 18,
+  "group": "IS-24-21",
+  "gpa": 3.45,
+  "skills": [
+    "Java",
+    "Python",
+    "MongoDB"
+  ],
+  "address": {
+    "city": "Almaty",
+    "street": "rickulov"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97c0963828e3782010623e"
+  },
+  "studentId": 3,
+  "name": "pipa",
+  "surname": "trulan",
+  "age": 18,
+  "group": "IS-24-21",
+  "gpa": 3.45,
+  "skills": [
+    "Java",
+    "MongoDB"
+  ],
+  "address": {
+    "city": "Almaty",
+    "street": "rickulov"
+  }
+},
+{
+  "_id": {
+    "$oid": "0a97c0463828e3782010623e"
+  },
+  "studentId": 4,
+  "name": "pupor",
+  "surname": "sturen",
+  "age": 18,
+  "group": "IS-24-21",
+  "gpa": 3.45,
+  "skills": [
+    "Java",
+    "MongoDB"
+  ],
+  "address": {
+    "city": "Almaty",
+    "street": "rickulov"
+  }
+}]

@@ -1,0 +1,52 @@
+CREATE KEYSPACE IF NOT EXISTS library_lab
+WITH replication = {
+    'class': 'SimpleStrategy',
+    'replication_factor': 1
+};
+
+USE library_lab;
+
+CREATE TABLE IF NOT EXISTS loans_by_reader (
+    reader_id text,
+    loan_date date,
+    loan_time time,
+    loan_id text,
+    book_id text,
+    book_title text,
+    category text,
+    due_date date,
+    return_date date,
+    status text,
+    PRIMARY KEY ((reader_id), loan_date, loan_time, loan_id)
+);
+
+INSERT INTO loans_by_reader
+(reader_id, loan_date, loan_time, loan_id, book_id, book_title, category, due_date, return_date, status)
+VALUES
+('R001', '2026-09-01', '09:00:00', 'L001',
+ 'B001', 'Преступление и наказание', 'Роман',
+ '2026-09-15', '2026-09-14', 'returned');
+
+INSERT INTO loans_by_reader
+(reader_id, loan_date, loan_time, loan_id, book_id, book_title, category, due_date, return_date, status)
+VALUES
+('R001', '2026-09-10', '10:30:00', 'L002',
+ 'B003', '1984', 'Антиутопия',
+ '2026-09-24', null, 'active');
+
+INSERT INTO loans_by_reader
+(reader_id, loan_date, loan_time, loan_id, book_id, book_title, category, due_date, return_date, status)
+VALUES
+('R001', '2026-10-01', '11:00:00', 'L003',
+ 'B005', 'Мастер и Маргарита', 'Роман',
+ '2026-10-15', null, 'active');
+
+INSERT INTO loans_by_reader
+(reader_id, loan_date, loan_time, loan_id, book_id, book_title, category, due_date, return_date, status)
+VALUES
+('R001', '2026-10-05', '14:00:00', 'L004',
+ 'B002', 'Капитанская дочка', 'Классика',
+ '2026-10-19', null, 'active');
+
+SELECT * FROM loans_by_reader
+WHERE reader_id = 'R001';

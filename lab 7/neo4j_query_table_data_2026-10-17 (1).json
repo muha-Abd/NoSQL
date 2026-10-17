@@ -1,0 +1,3502 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1152924803141730304,
+      "start": 0,
+      "end": 1,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1152924803141730304",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1155176602955415552,
+      "start": 0,
+      "end": 12,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1155176602955415552",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1157428402769100800,
+      "start": 0,
+      "end": 13,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1157428402769100800",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:13"
+    },
+    "m": {
+      "identity": 13,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1159680202582786048,
+      "start": 0,
+      "end": 27,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1159680202582786048",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:27"
+    },
+    "m": {
+      "identity": 27,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1161932002396471296,
+      "start": 0,
+      "end": 28,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1161932002396471296",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:28"
+    },
+    "m": {
+      "identity": 28,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1164183802210156544,
+      "start": 0,
+      "end": 42,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1164183802210156544",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:42"
+    },
+    "m": {
+      "identity": 42,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1166435602023841792,
+      "start": 0,
+      "end": 43,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1166435602023841792",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:43"
+    },
+    "m": {
+      "identity": 43,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1168687401837527040,
+      "start": 0,
+      "end": 57,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1168687401837527040",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:57"
+    },
+    "m": {
+      "identity": 57,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1170939201651212288,
+      "start": 0,
+      "end": 58,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1170939201651212288",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:58"
+    },
+    "m": {
+      "identity": 58,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:58"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1173191001464897536,
+      "start": 0,
+      "end": 72,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1173191001464897536",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:72"
+    },
+    "m": {
+      "identity": 72,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1175442801278582784,
+      "start": 0,
+      "end": 73,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1175442801278582784",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:73"
+    },
+    "m": {
+      "identity": 73,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:73"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1177694601092268032,
+      "start": 0,
+      "end": 87,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1177694601092268032",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:87"
+    },
+    "m": {
+      "identity": 87,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1179946400905953280,
+      "start": 0,
+      "end": 88,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1179946400905953280",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:88"
+    },
+    "m": {
+      "identity": 88,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1182198200719638528,
+      "start": 0,
+      "end": 102,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1182198200719638528",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:102"
+    },
+    "m": {
+      "identity": 102,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1184450000533323776,
+      "start": 0,
+      "end": 103,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1184450000533323776",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:103"
+    },
+    "m": {
+      "identity": 103,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:103"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1186701800347009024,
+      "start": 0,
+      "end": 117,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1186701800347009024",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:117"
+    },
+    "m": {
+      "identity": 117,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1188953600160694272,
+      "start": 0,
+      "end": 118,
+      "type": "INTERESTED_IN",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1188953600160694272",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:118"
+    },
+    "m": {
+      "identity": 118,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Роман",
+        "title": "Идиот",
+        "bookId": 102
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:118"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1152922604118474752,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1152922604118474752",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1155174403932160000,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1155174403932160000",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1157426203745845248,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1157426203745845248",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1159678003559530496,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1159678003559530496",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1161929803373215744,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1161929803373215744",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1164181603186900992,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1164181603186900992",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1166433403000586240,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1166433403000586240",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1168685202814271488,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1168685202814271488",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1170937002627956736,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1170937002627956736",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1173188802441641984,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1173188802441641984",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1175440602255327232,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1175440602255327232",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1177692402069012480,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1177692402069012480",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1179944201882697728,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1179944201882697728",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1182196001696382976,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1182196001696382976",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1184447801510068224,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1184447801510068224",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1186699601323753472,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1186699601323753472",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1188951401137438720,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1188951401137438720",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1191203200951123968,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1191203200951123968",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1193455000764809216,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1193455000764809216",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1195706800578494464,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1195706800578494464",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1197958600392179712,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1197958600392179712",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1200210400205864960,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1200210400205864960",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1202462200019550208,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1202462200019550208",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1204713999833235456,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1204713999833235456",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1206965799646920704,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1206965799646920704",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1209217599460605952,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1209217599460605952",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1211469399274291200,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1211469399274291200",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1213721199087976448,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1213721199087976448",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1215972998901661696,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1215972998901661696",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1218224798715346944,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1218224798715346944",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1220476598529032192,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1220476598529032192",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1222728398342717440,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1222728398342717440",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1224980198156402688,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1224980198156402688",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1227231997970087936,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1227231997970087936",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1229483797783773184,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1229483797783773184",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1231735597597458432,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1231735597597458432",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1233987397411143680,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1233987397411143680",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1236239197224828928,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1236239197224828928",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1238490997038514176,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1238490997038514176",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1240742796852199424,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1240742796852199424",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1242994596665884672,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1242994596665884672",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1245246396479569920,
+      "start": 0,
+      "end": 1,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1245246396479569920",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1247498196293255168,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1247498196293255168",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1249749996106940416,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1249749996106940416",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1252001795920625664,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1252001795920625664",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1254253595734310912,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1254253595734310912",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1256505395547996160,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1256505395547996160",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1258757195361681408,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1258757195361681408",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1261008995175366656,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1261008995175366656",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1263260794989051904,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1263260794989051904",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1265512594802737152,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1265512594802737152",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1267764394616422400,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1267764394616422400",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1270016194430107648,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1270016194430107648",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1272267994243792896,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1272267994243792896",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1274519794057478144,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1274519794057478144",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1276771593871163392,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1276771593871163392",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1279023393684848640,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1279023393684848640",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1281275193498533888,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1281275193498533888",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1283526993312219136,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1283526993312219136",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1285778793125904384,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1285778793125904384",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1288030592939589632,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1288030592939589632",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1290282392753274880,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1290282392753274880",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1292534192566960128,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1292534192566960128",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1294785992380645376,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1294785992380645376",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1297037792194330624,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1297037792194330624",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1299289592008015872,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1299289592008015872",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1301541391821701120,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1301541391821701120",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1303793191635386368,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1303793191635386368",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1306044991449071616,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1306044991449071616",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1308296791262756864,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1308296791262756864",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1310548591076442112,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1310548591076442112",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1312800390890127360,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1312800390890127360",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1315052190703812608,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1315052190703812608",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1317303990517497856,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1317303990517497856",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1319555790331183104,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1319555790331183104",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1321807590144868352,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1321807590144868352",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1324059389958553600,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1324059389958553600",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1326311189772238848,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1326311189772238848",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1328562989585924096,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1328562989585924096",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1330814789399609344,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1330814789399609344",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1333066589213294592,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1333066589213294592",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1335318389026979840,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1335318389026979840",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Reader"
+      ],
+      "properties": {
+        "name": "Али",
+        "readerId": 1
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0"
+    },
+    "r": {
+      "identity": 1337570188840665088,
+      "start": 0,
+      "end": 12,
+      "type": "BORROWED",
+      "properties": {},
+      "elementId": "5:bc8d5811-1244-4052-b7b6-d9977d2498c9:1337570188840665088",
+      "startNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:0",
+      "endNodeElementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Book"
+      ],
+      "properties": {
+        "genre": "Классическая литература",
+        "title": "Преступление и наказание",
+        "bookId": 101
+      },
+      "elementId": "4:bc8d5811-1244-4052-b7b6-d9977d2498c9:12"
+    }
+  }
+]

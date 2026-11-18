@@ -1,0 +1,31 @@
+{
+  "totalIndexSize_bytes": 49152,
+  "indexSizes_bytes": {
+    "_id_": 4096,
+    "idx_eventId_zone": 45056
+  },
+  "index_information": {
+    "_id_": {
+      "v": 2,
+      "key": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    },
+    "idx_eventId_zone": {
+      "v": 2,
+      "key": [
+        [
+          "eventId",
+          1
+        ],
+        [
+          "zone",
+          1
+        ]
+      ]
+    }
+  }
+}

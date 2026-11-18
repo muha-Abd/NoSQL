@@ -1,0 +1,11 @@
+Перед сдачей:
+1. Установить и запустить локальную MongoDB.
+2. Установить зависимости: pip install -r requirements.txt
+3. Выполнить python seed.py.
+4. Выполнить python benchmark.py.
+5. Выполнить python make_report.py.
+6. Проверить фактические результаты и графики в отчёте.
+7. Загрузить проект в GitHub: README.md, seed.py, benchmark.py, requirements.txt,
+   .env.example, results.csv, raw_results.csv, explain_before.json,
+   explain_after.json, charts/ (или PNG в корне), report.pdf.
+Не публиковать пароли и реальные секреты подключения.

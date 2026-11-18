@@ -1,0 +1,169 @@
+{
+  "explainVersion": "1",
+  "queryPlanner": {
+    "namespace": "nosql_lab12_variant19.tickets",
+    "parsedQuery": {
+      "$and": [
+        {
+          "eventId": {
+            "$eq": 10
+          }
+        },
+        {
+          "zone": {
+            "$eq": "A"
+          }
+        }
+      ]
+    },
+    "indexFilterSet": false,
+    "queryHash": "C6CB51D7",
+    "planCacheShapeHash": "C6CB51D7",
+    "planCacheKey": "0DC90EE1",
+    "optimizationTimeMillis": 0,
+    "maxIndexedOrSolutionsReached": false,
+    "maxIndexedAndSolutionsReached": false,
+    "maxScansToExplodeReached": false,
+    "prunedSimilarIndexes": false,
+    "winningPlan": {
+      "isCached": false,
+      "stage": "LIMIT",
+      "limitAmount": 100,
+      "inputStage": {
+        "stage": "FETCH",
+        "inputStage": {
+          "stage": "IXSCAN",
+          "keyPattern": {
+            "eventId": 1,
+            "zone": 1
+          },
+          "indexName": "idx_eventId_zone",
+          "isMultiKey": false,
+          "multiKeyPaths": {
+            "eventId": [],
+            "zone": []
+          },
+          "isUnique": false,
+          "isSparse": false,
+          "isPartial": false,
+          "indexVersion": 2,
+          "direction": "forward",
+          "indexBounds": {
+            "eventId": [
+              "[10, 10]"
+            ],
+            "zone": [
+              "[\"A\", \"A\"]"
+            ]
+          }
+        }
+      }
+    },
+    "rejectedPlans": []
+  },
+  "executionStats": {
+    "executionSuccess": true,
+    "nReturned": 25,
+    "executionTimeMillis": 6,
+    "totalKeysExamined": 25,
+    "totalDocsExamined": 25,
+    "executionStages": {
+      "isCached": false,
+      "stage": "LIMIT",
+      "nReturned": 25,
+      "executionTimeMillisEstimate": 6,
+      "works": 26,
+      "advanced": 25,
+      "needTime": 0,
+      "needYield": 0,
+      "saveState": 0,
+      "restoreState": 0,
+      "isEOF": 1,
+      "limitAmount": 100,
+      "inputStage": {
+        "stage": "FETCH",
+        "nReturned": 25,
+        "executionTimeMillisEstimate": 6,
+        "works": 26,
+        "advanced": 25,
+        "needTime": 0,
+        "needYield": 0,
+        "saveState": 0,
+        "restoreState": 0,
+        "isEOF": 1,
+        "docsExamined": 25,
+        "alreadyHasObj": 0,
+        "inputStage": {
+          "stage": "IXSCAN",
+          "nReturned": 25,
+          "executionTimeMillisEstimate": 6,
+          "works": 26,
+          "advanced": 25,
+          "needTime": 0,
+          "needYield": 0,
+          "saveState": 0,
+          "restoreState": 0,
+          "isEOF": 1,
+          "keyPattern": {
+            "eventId": 1,
+            "zone": 1
+          },
+          "indexName": "idx_eventId_zone",
+          "isMultiKey": false,
+          "multiKeyPaths": {
+            "eventId": [],
+            "zone": []
+          },
+          "isUnique": false,
+          "isSparse": false,
+          "isPartial": false,
+          "indexVersion": 2,
+          "direction": "forward",
+          "indexBounds": {
+            "eventId": [
+              "[10, 10]"
+            ],
+            "zone": [
+              "[\"A\", \"A\"]"
+            ]
+          },
+          "keysExamined": 25,
+          "seeks": 1,
+          "dupsTested": 0,
+          "dupsDropped": 0
+        }
+      }
+    },
+    "allPlansExecution": []
+  },
+  "queryShapeHash": "B72D6472366B212D49A1F89F28B75B76E0294D8A8E5EEDDFE71F0F56DE12B646",
+  "command": {
+    "find": "tickets",
+    "filter": {
+      "eventId": 10,
+      "zone": "A"
+    },
+    "limit": 100,
+    "singleBatch": true,
+    "$db": "nosql_lab12_variant19"
+  },
+  "serverInfo": {
+    "host": "401-2C-29",
+    "port": 27017,
+    "version": "8.2.0",
+    "gitVersion": "13e629eeccd63f00d17568fc4c12b7530fa34b54"
+  },
+  "serverParameters": {
+    "internalQueryFacetBufferSizeBytes": 104857600,
+    "internalQueryFacetMaxOutputDocSizeBytes": 104857600,
+    "internalLookupStageIntermediateDocumentMaxSizeBytes": 104857600,
+    "internalDocumentSourceGroupMaxMemoryBytes": 104857600,
+    "internalQueryMaxBlockingSortMemoryUsageBytes": 104857600,
+    "internalQueryProhibitBlockingMergeOnMongoS": 0,
+    "internalQueryMaxAddToSetBytes": 104857600,
+    "internalDocumentSourceSetWindowFieldsMaxMemoryBytes": 104857600,
+    "internalQueryFrameworkControl": "trySbeRestricted",
+    "internalQueryPlannerIgnoreIndexWithCollationForRegex": 1
+  },
+  "ok": 1.0
+}

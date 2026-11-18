@@ -1,0 +1,13 @@
+{
+  "date_utc": "2026-11-18T06:10:35.273481+00:00",
+  "mongodb_version": "8.2.0",
+  "python_version": "3.12.5",
+  "documents": 5000,
+  "seed": 42,
+  "query": {
+    "eventId": 10,
+    "zone": "A"
+  },
+  "requests_per_repeat": 400,
+  "warmup_requests": 40
+}
